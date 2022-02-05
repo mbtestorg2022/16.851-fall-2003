@@ -16,8 +16,46 @@ The portfolio format is up to you to choose but it should be well organized. It
 
 The table below contains samples of various student portfolio formats. The student work is courtesy of the students listed below.
 
-| STUDENTS          | PORTFOLIOS |
-| --- | --- |
-| Bill Nadir | ([PDF 1 of 2 - 3.8 MB]({{< baseurl >}}/resources/portfolio_nadir1))  {{< br >}}([PDF 2 of 2 - 2.8 MB]({{< baseurl >}}/resources/portfolio_nadir2)) |
-| Matthew Richards | ([PDF - 1.4 MB]({{< baseurl >}}/resources/16_851_portfolio)) (Courtesy of Matthew Richards. Used with permission.) |
-| Anna Silbovitz | ([PDF]({{< baseurl >}}/resources/sateng_portfolio))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+STUDENTS         
+{{< thclose >}}
+{{< thopen >}}
+PORTFOLIOS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Bill Nadir
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF 1 of 2 - 3.8 MB]({{< baseurl >}}/resources/portfolio_nadir1))  
+([PDF 2 of 2 - 2.8 MB]({{< baseurl >}}/resources/portfolio_nadir2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Matthew Richards
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.4 MB]({{< baseurl >}}/resources/16_851_portfolio)) (Courtesy of Matthew Richards. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Anna Silbovitz
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/sateng_portfolio))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

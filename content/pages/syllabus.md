@@ -110,12 +110,87 @@ The faculty and staff will meet every Monday at 10am to discuss the progress of 
 
 Grading for 16.851 is based upon the criteria shown in the following table. The percentage weights of each item and a brief description are provided. These grades will be reported to the students in their end-of-term grades as well as once near the middle of the term.
 
-| CRITERIA | GRADERS | WEIGHTS | NUMBERS |
-| --- | --- | --- | --- |
-| Class Participation | Faculty | 15% | 26 |
-| Problem Sets | Faculty | 50% | 5 |
-| Problem Set Reviews | Faculty | 15% | 2 |
-| Portfolio | Faculty | 20% | 3 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CRITERIA
+{{< thclose >}}
+{{< thopen >}}
+GRADERS
+{{< thclose >}}
+{{< thopen >}}
+WEIGHTS
+{{< thclose >}}
+{{< thopen >}}
+NUMBERS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+Faculty
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+Faculty
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set Reviews
+{{< tdclose >}}
+{{< tdopen >}}
+Faculty
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Portfolio
+{{< tdclose >}}
+{{< tdopen >}}
+Faculty
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "7_0" >}}{{< /anchor >}}7.0 Resources
 ------------------------------------------------

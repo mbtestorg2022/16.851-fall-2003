@@ -33,28 +33,370 @@ Assignments
 
 The assignments for this course that were completed by each student group in Fall 2003 are provided in the table below.  A brief description of the problem each group selected may be found under 'Assignments'.  The 'Solutions' linked in the table are based upon pieces of code included under 'Tools'. The student work is courtesy of the students listed below.
 
-| STUDENTS              | ASSIGNMENTS                                              | SOLUTIONS | TOOLS |
-| --- | --- | --- | --- |
-| {{< td-colspan 4 >}}**Problem Set 1**{{< /td-colspan >}} ||||
-| Seung Chung  {{< br >}}  {{< br >}}Mark Hilstad  {{< br >}}  {{< br >}}Dan Kwon | The design of a spacecraft power subsystem is an important driver for the mass, size, and capability of the spacecraft. Create a power-system design tool applicable to a wide range of future design problems. | ([PDF]({{< baseurl >}}/resources/ps1_cg_solution)) (Courtesy of Seung Chung, Mark Hilstad, and Dan Kwon. Used with permission.) | ps1\_cg\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps1_cg_tools)) (The ZIP file contains: 1 .gif file, 2 .png files, 2 .xls files, and 17 .m files.) (Courtesy of Seung Chung, Mark Hilstad, and Dan Kwon. Used with permission.) |
-| Christopher Hynes  {{< br >}}  {{< br >}}Steve Paschall | Design a launch vehicle decision tool to provide ease of launch vehicle selection given spacecraft design specifications. ([PDF]({{< baseurl >}}/resources/ps1_cs_ps1)) | ([PDF]({{< baseurl >}}/resources/ps1_cs_solution)) | ps1\_cs\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps1_cs_tools)) (The ZIP file contains: 1 .txt file, 5 .asv files, and 22 .m files.) |
-| Andrew Vaughan  {{< br >}}  {{< br >}}David Woffinden | As future space missions plan to utilize Lagrange Point Orbits, describe the potential orbits about the stable and unstable Lagrange points. | ([PDF]({{< baseurl >}}/resources/ps1_nn_solution)) (Courtesy of Andrew Vaughan and David Woffinden. Used with permission.) | &nbsp; |
-| {{< td-colspan 4 >}}**Problem Set 2**{{< /td-colspan >}} ||||
-| Namiko Yamamoto  {{< br >}}  {{< br >}}Seung Chung | Design a tool that compares a set of feasible orbit transfer and propulsion system combinations for a given mission requirement, in terms of desired orbit transfers. ([PDF]({{< baseurl >}}/resources/ps2_cg_ps2)) (Courtesy of Seung Chung and Namiko Yamamoto. Used with permission.) | ([PDF]({{< baseurl >}}/resources/ps2_cg_solution)) (Courtesy of Seung Chung and Namiko Yamamoto. Used with permission.) | ps2\_cg\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps2_cg_tools)) (The ZIP file contains: temp.m, misc.m, compute\_spiral\_transfer.m, compute\_impulsive\_Delta\_V\_max.m, compute\_Hohmann\_transfer\_test.m, compute\_Hohmann\_transfer\_segments.m, compute\_Hohmann\_transfer.m, compute\_high\_energy\_transfer\_test.m, compute\_high\_energy\_transfer.m, and compute\_Delta\_V\_max\_test.m) (Courtesy of Seung Chung and Namiko Yamamoto. Used with permission.) |
-| Christopher Hynes  {{< br >}}  {{< br >}}Kathryn Weiss | Determine the surface area of a solar panel needed to produce enough power to meet the requirements of a given spacecraft, considering altitude and inclination and type of solar cell. ([PDF]({{< baseurl >}}/resources/ps2_cs_ps2)) | ([PDF]({{< baseurl >}}/resources/ps2_cs_solution)) | ps2\_cs\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps2_cs_tools)) (The ZIP file contains: ArrayDesign.asv, pwrBOL.m, perfDegrad.m, calcPW.m, and ArrayDesign.m.) |
-| Andrew Long  {{< br >}}  {{< br >}}Anna Silbovitz | The final orbit of a satellite is a key component of mission planning. Given a payload mass and final orbit, determine the preferred launch vehicle and launch site. ([PDF]({{< baseurl >}}/resources/ps2_long_ps2)) | &nbsp; |
-| {{< td-colspan 4 >}}**Problem Set 3**{{< /td-colspan >}} ||||
-| Seung Chung  {{< br >}}  {{< br >}}Matthew Richards | Degradation of solar array performance due to radiation within space environment is an important effect to consider when designing the power subsystem. Characterize this degradation given orbit position as a function of time. | ([PDF]({{< baseurl >}}/resources/ps3_cg_solution)) (Courtesy of Seung Chung and Matthew Richards. Used with permission.) | ps3\_cg\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps3_cg_tools)) (The ZIP file contains: 1 .asv file, and 40 .m files.) (Courtesy of Seung Chung and Matthew Richards. Used with permission.) |
-| Christopher Hynes  {{< br >}}  {{< br >}}Andrew Vaughan | The near-Earth space and atmospheric environments strongly influence the performance and lifetime of operational space systems. Design a tool that helps size ACS actuators for a satellite mission given specific mission objectives and environmental disturbances. | ([PDF]({{< baseurl >}}/resources/ps3_cs_solution)) | ps3\_cs\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps3_cs_tools)) (The ZIP file contains: thrustersizing.m, t\_solar.m, t\_gg.m, t\_bfield.m, t\_aero.m, reacwheelsize.m, reacwheel\_cmgsize.m, reachwheel&cmgsize.m, obj2actuator.m, momwheelsizing.m, magtorsizing.m, ae2rv.m, and ACSsize.m.) |
-| {{< td-colspan 4 >}}**Problem Set 4**{{< /td-colspan >}} ||||
-| Seung Chung  {{< br >}}  {{< br >}}Steve Paschall  {{< br >}}  {{< br >}}Kathryn Weiss | The power and communications subsystems aboard a spacecraft interact with one another as a function of the spacecraft’s orbit to achieve a set of requirements. Determine the optimal combination of orbit size and inclination, solar array and battery sizes, communication subsystem power usage and antenna size, given a specified ground station. | ([PDF]({{< baseurl >}}/resources/ps4_cg_solution)) | ps4\_cg\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps4_cg_tools)) (The ZIP file contains: test.m, Scenario.m, compute\_feasible\_circular\_LEO\_test.m, compute\_feasible\_circular\_LEO.m, and compute\_communication\_time.m.) |
-| Christopher Hynes  {{< br >}}  {{< br >}}Afreen Siddiqi  {{< br >}}  {{< br >}}Thomas Leaute | A satellite being able to communicate with the ground station is an essential part of the spacecraft mission. Determine the optimum communication frequency and optimum data rate that minimized the combined mass requirements of telemetry, communications, and power subsystems. ([PDF]({{< baseurl >}}/resources/ps4_cs_ps4)) | ([PDF]({{< baseurl >}}/resources/ps4_cs_solution)) | ps4\_cs\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps4_cs_tools)) (The ZIP file contains: datastorage.xls, and datamassstorage\_sizing.m.) |
-| Matthew Richards  {{< br >}}  {{< br >}}Anna Silbovitz | Ground communication is often an essential part of a satellite’s function.  The data is sent at a specified rate, and the power needed by the transmitter is a function of this rate. For a low-earth satellite, find the power system needed if the satellite must send data to the ground once a day. | &nbsp; |
-| {{< td-colspan 4 >}}**Problem Set 5**{{< /td-colspan >}} ||||
-| Seung Chung  {{< br >}}  {{< br >}}Anna Silbovitz | With greater demand for high-resolution images and the technological infeasibility of manufacturing and launching larger aperture optics, many missions are turning to interferometry as an alternative high-resolution imagery technique. Optimize the design of a satellite so that it has high-resolution imaging capability but with minimal mass spacecraft. | &nbsp; |
-| Christopher Hynes  {{< br >}}  {{< br >}}Bill Nadir  {{< br >}}  {{< br >}}Namiko Yamamoto | In 2001, the first space tourist, Dennis Tito, traveled to the International Space Station onboard a Russian Soyuz rocket.  {{< br >}}The travels of Dennis Tito are just the beginning for space tourism. Design a concept for a Space Hotel orbiting Earth. | &nbsp; |
-| Andrew Long  {{< br >}}  {{< br >}}Christine Taylor  {{< br >}}  {{< br >}}Thomas Leaute | The US manned space program is entering an era of mutation, as NASA now has to deal with new challenges, after recent events such as the Columbia tragedy or the symbolical first "taikonaut" in space. It is clear that this New Deal and a revived international cooperation will create opportunities for space agencies to move the frontiers a little farther and extend the presence of man on orbit, possibly on board a new Space Station. You, a recent MIT grad, have been approached by NASA to design the next US Space Station. | ([PDF]({{< baseurl >}}/resources/ps5_nn_solution)) | &nbsp; |
-| {{< td-colspan 4 >}}**Problem Set 6**{{< /td-colspan >}} ||||
-| Seung Chung  {{< br >}}  {{< br >}}Steve Paschall  {{< br >}}  {{< br >}}Alexa Figgess  {{< br >}}  {{< br >}}Matthew Richards | Mars is of great scientific interest given the potential evidence of past or present life. As the closest planet with a relatively mild environment, there exists a unique opportunity to explore Mars with humans. Design a software tool that performs a trade of the life support, propulsion, and power subsystems for a human transportation vehicle from Earth to Mars. | ([PDF]({{< baseurl >}}/resources/ps6_cg_solution)) | ps6\_cg\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps6_cg_tools)) (The ZIP file contains: 3 .xls files, and 19 .m files.) |
-| Christopher Hynes  {{< br >}}  {{< br >}}Christine Taylor  {{< br >}}  {{< br >}}James Whiting | Thermal radiation is an important consideration in spacecraft design. A spacecraft's skin must account for thermal effects, but it must also be inexpensive and reasonable to build. Design a spacecraft structure to account for thermal radiation effects while minimizing cost. | ([PDF]({{< baseurl >}}/resources/ps6_cs_solution)) | ps6\_cs\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps6_cs_tools)) (The ZIP file contains: thermal.m, strength.m, SATELLITE\_COST.m, mat.m, and mat.asv.) |
-| Dan Kwon  {{< br >}}  {{< br >}}Afreen Siddiqi  {{< br >}}  {{< br >}}Andrew Vaughan  {{< br >}}  {{< br >}}Bill Nadir | A manned mission to Mars poses several significant technological challenges for engineers. One such challenge is to minimize the physiological impact on the astronauts during prolonged spaceflight. A possible solution to this is using artificial gravity. Create a tool to evaluate the feasibility of an artificial gravity Mars mission. | ([PDF]({{< baseurl >}}/resources/ps6_nn_solution)) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+STUDENTS             
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS                                             
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+{{< thopen >}}
+TOOLS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Problem Set 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Seung Chung  
+  
+Mark Hilstad  
+  
+Dan Kwon
+{{< tdclose >}}
+{{< tdopen >}}
+The design of a spacecraft power subsystem is an important driver for the mass, size, and capability of the spacecraft. Create a power-system design tool applicable to a wide range of future design problems.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps1_cg_solution)) (Courtesy of Seung Chung, Mark Hilstad, and Dan Kwon. Used with permission.)
+{{< tdclose >}}
+{{< tdopen >}}
+ps1\_cg\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps1_cg_tools)) (The ZIP file contains: 1 .gif file, 2 .png files, 2 .xls files, and 17 .m files.) (Courtesy of Seung Chung, Mark Hilstad, and Dan Kwon. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Christopher Hynes  
+  
+Steve Paschall
+{{< tdclose >}}
+{{< tdopen >}}
+Design a launch vehicle decision tool to provide ease of launch vehicle selection given spacecraft design specifications. ([PDF]({{< baseurl >}}/resources/ps1_cs_ps1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps1_cs_solution))
+{{< tdclose >}}
+{{< tdopen >}}
+ps1\_cs\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps1_cs_tools)) (The ZIP file contains: 1 .txt file, 5 .asv files, and 22 .m files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Andrew Vaughan  
+  
+David Woffinden
+{{< tdclose >}}
+{{< tdopen >}}
+As future space missions plan to utilize Lagrange Point Orbits, describe the potential orbits about the stable and unstable Lagrange points.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps1_nn_solution)) (Courtesy of Andrew Vaughan and David Woffinden. Used with permission.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Problem Set 2**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Namiko Yamamoto  
+  
+Seung Chung
+{{< tdclose >}}
+{{< tdopen >}}
+Design a tool that compares a set of feasible orbit transfer and propulsion system combinations for a given mission requirement, in terms of desired orbit transfers. ([PDF]({{< baseurl >}}/resources/ps2_cg_ps2)) (Courtesy of Seung Chung and Namiko Yamamoto. Used with permission.)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps2_cg_solution)) (Courtesy of Seung Chung and Namiko Yamamoto. Used with permission.)
+{{< tdclose >}}
+{{< tdopen >}}
+ps2\_cg\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps2_cg_tools)) (The ZIP file contains: temp.m, misc.m, compute\_spiral\_transfer.m, compute\_impulsive\_Delta\_V\_max.m, compute\_Hohmann\_transfer\_test.m, compute\_Hohmann\_transfer\_segments.m, compute\_Hohmann\_transfer.m, compute\_high\_energy\_transfer\_test.m, compute\_high\_energy\_transfer.m, and compute\_Delta\_V\_max\_test.m) (Courtesy of Seung Chung and Namiko Yamamoto. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Christopher Hynes  
+  
+Kathryn Weiss
+{{< tdclose >}}
+{{< tdopen >}}
+Determine the surface area of a solar panel needed to produce enough power to meet the requirements of a given spacecraft, considering altitude and inclination and type of solar cell. ([PDF]({{< baseurl >}}/resources/ps2_cs_ps2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps2_cs_solution))
+{{< tdclose >}}
+{{< tdopen >}}
+ps2\_cs\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps2_cs_tools)) (The ZIP file contains: ArrayDesign.asv, pwrBOL.m, perfDegrad.m, calcPW.m, and ArrayDesign.m.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Andrew Long  
+  
+Anna Silbovitz
+{{< tdclose >}}
+{{< tdopen >}}
+The final orbit of a satellite is a key component of mission planning. Given a payload mass and final orbit, determine the preferred launch vehicle and launch site. ([PDF]({{< baseurl >}}/resources/ps2_long_ps2))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Problem Set 3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Seung Chung  
+  
+Matthew Richards
+{{< tdclose >}}
+{{< tdopen >}}
+Degradation of solar array performance due to radiation within space environment is an important effect to consider when designing the power subsystem. Characterize this degradation given orbit position as a function of time.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps3_cg_solution)) (Courtesy of Seung Chung and Matthew Richards. Used with permission.)
+{{< tdclose >}}
+{{< tdopen >}}
+ps3\_cg\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps3_cg_tools)) (The ZIP file contains: 1 .asv file, and 40 .m files.) (Courtesy of Seung Chung and Matthew Richards. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Christopher Hynes  
+  
+Andrew Vaughan
+{{< tdclose >}}
+{{< tdopen >}}
+The near-Earth space and atmospheric environments strongly influence the performance and lifetime of operational space systems. Design a tool that helps size ACS actuators for a satellite mission given specific mission objectives and environmental disturbances.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps3_cs_solution))
+{{< tdclose >}}
+{{< tdopen >}}
+ps3\_cs\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps3_cs_tools)) (The ZIP file contains: thrustersizing.m, t\_solar.m, t\_gg.m, t\_bfield.m, t\_aero.m, reacwheelsize.m, reacwheel\_cmgsize.m, reachwheel&cmgsize.m, obj2actuator.m, momwheelsizing.m, magtorsizing.m, ae2rv.m, and ACSsize.m.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Problem Set 4**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Seung Chung  
+  
+Steve Paschall  
+  
+Kathryn Weiss
+{{< tdclose >}}
+{{< tdopen >}}
+The power and communications subsystems aboard a spacecraft interact with one another as a function of the spacecraft’s orbit to achieve a set of requirements. Determine the optimal combination of orbit size and inclination, solar array and battery sizes, communication subsystem power usage and antenna size, given a specified ground station.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps4_cg_solution))
+{{< tdclose >}}
+{{< tdopen >}}
+ps4\_cg\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps4_cg_tools)) (The ZIP file contains: test.m, Scenario.m, compute\_feasible\_circular\_LEO\_test.m, compute\_feasible\_circular\_LEO.m, and compute\_communication\_time.m.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Christopher Hynes  
+  
+Afreen Siddiqi  
+  
+Thomas Leaute
+{{< tdclose >}}
+{{< tdopen >}}
+A satellite being able to communicate with the ground station is an essential part of the spacecraft mission. Determine the optimum communication frequency and optimum data rate that minimized the combined mass requirements of telemetry, communications, and power subsystems. ([PDF]({{< baseurl >}}/resources/ps4_cs_ps4))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps4_cs_solution))
+{{< tdclose >}}
+{{< tdopen >}}
+ps4\_cs\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps4_cs_tools)) (The ZIP file contains: datastorage.xls, and datamassstorage\_sizing.m.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Matthew Richards  
+  
+Anna Silbovitz
+{{< tdclose >}}
+{{< tdopen >}}
+Ground communication is often an essential part of a satellite’s function.  The data is sent at a specified rate, and the power needed by the transmitter is a function of this rate. For a low-earth satellite, find the power system needed if the satellite must send data to the ground once a day.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Problem Set 5**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Seung Chung  
+  
+Anna Silbovitz
+{{< tdclose >}}
+{{< tdopen >}}
+With greater demand for high-resolution images and the technological infeasibility of manufacturing and launching larger aperture optics, many missions are turning to interferometry as an alternative high-resolution imagery technique. Optimize the design of a satellite so that it has high-resolution imaging capability but with minimal mass spacecraft.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Christopher Hynes  
+  
+Bill Nadir  
+  
+Namiko Yamamoto
+{{< tdclose >}}
+{{< tdopen >}}
+In 2001, the first space tourist, Dennis Tito, traveled to the International Space Station onboard a Russian Soyuz rocket.  
+The travels of Dennis Tito are just the beginning for space tourism. Design a concept for a Space Hotel orbiting Earth.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Andrew Long  
+  
+Christine Taylor  
+  
+Thomas Leaute
+{{< tdclose >}}
+{{< tdopen >}}
+The US manned space program is entering an era of mutation, as NASA now has to deal with new challenges, after recent events such as the Columbia tragedy or the symbolical first "taikonaut" in space. It is clear that this New Deal and a revived international cooperation will create opportunities for space agencies to move the frontiers a little farther and extend the presence of man on orbit, possibly on board a new Space Station. You, a recent MIT grad, have been approached by NASA to design the next US Space Station.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps5_nn_solution))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Problem Set 6**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Seung Chung  
+  
+Steve Paschall  
+  
+Alexa Figgess  
+  
+Matthew Richards
+{{< tdclose >}}
+{{< tdopen >}}
+Mars is of great scientific interest given the potential evidence of past or present life. As the closest planet with a relatively mild environment, there exists a unique opportunity to explore Mars with humans. Design a software tool that performs a trade of the life support, propulsion, and power subsystems for a human transportation vehicle from Earth to Mars.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps6_cg_solution))
+{{< tdclose >}}
+{{< tdopen >}}
+ps6\_cg\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps6_cg_tools)) (The ZIP file contains: 3 .xls files, and 19 .m files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Christopher Hynes  
+  
+Christine Taylor  
+  
+James Whiting
+{{< tdclose >}}
+{{< tdopen >}}
+Thermal radiation is an important consideration in spacecraft design. A spacecraft's skin must account for thermal effects, but it must also be inexpensive and reasonable to build. Design a spacecraft structure to account for thermal radiation effects while minimizing cost.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps6_cs_solution))
+{{< tdclose >}}
+{{< tdopen >}}
+ps6\_cs\_tools.zip ([ZIP]({{< baseurl >}}/resources/ps6_cs_tools)) (The ZIP file contains: thermal.m, strength.m, SATELLITE\_COST.m, mat.m, and mat.asv.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Dan Kwon  
+  
+Afreen Siddiqi  
+  
+Andrew Vaughan  
+  
+Bill Nadir
+{{< tdclose >}}
+{{< tdopen >}}
+A manned mission to Mars poses several significant technological challenges for engineers. One such challenge is to minimize the physiological impact on the astronauts during prolonged spaceflight. A possible solution to this is using artificial gravity. Create a tool to evaluate the feasibility of an artificial gravity Mars mission.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps6_nn_solution))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
