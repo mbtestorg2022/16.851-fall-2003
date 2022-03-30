@@ -9,6 +9,7 @@ description: 'Problem set and solution. Problem statement: The US manned space p
   a recent MIT grad, have been approached by NASA to design the next US Space Station.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-851-satellite-engineering-fall-2003/18912071e24410d771d7b745569eaee3_ps5_nn_solution.pdf
 file_type: application/pdf
+parent_uid: 54e4e27d-f3ae-708b-3759-0e244c163c0f
 resourcetype: Document
 title: ps5_nn_solution.pdf
 uid: 18912071-e244-10d7-71d7-b745569eaee3

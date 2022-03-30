@@ -7,6 +7,7 @@ description: 'Problem set and solution. Problem statement: Thermal radiation is 
   cost.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-851-satellite-engineering-fall-2003/1c0ba7f6631280f20f9c72eade829ddb_ps6_cs_solution.pdf
 file_type: application/pdf
+parent_uid: 54e4e27d-f3ae-708b-3759-0e244c163c0f
 resourcetype: Document
 title: ps6_cs_solution.pdf
 uid: 1c0ba7f6-6312-80f2-0f9c-72eade829ddb

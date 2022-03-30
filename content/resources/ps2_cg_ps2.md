@@ -6,6 +6,7 @@ description: 'Problem set courtesy of Seung Chung and Namiko Yamamoto. Used with
   desired orbit transfers.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-851-satellite-engineering-fall-2003/4bc93b56ca9fb5e6ca93386e23ab3d81_ps2_cg_ps2.pdf
 file_type: application/pdf
+parent_uid: 54e4e27d-f3ae-708b-3759-0e244c163c0f
 resourcetype: Document
 title: ps2_cg_ps2.pdf
 uid: 4bc93b56-ca9f-b5e6-ca93-386e23ab3d81

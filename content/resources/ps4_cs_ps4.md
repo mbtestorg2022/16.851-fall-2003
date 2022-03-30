@@ -8,6 +8,7 @@ description: 'Problem set.
   telemetry, communications, and power subsystems.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-851-satellite-engineering-fall-2003/198cd365118b566cf42583b9f140cfbd_ps4_cs_ps4.pdf
 file_type: application/pdf
+parent_uid: 54e4e27d-f3ae-708b-3759-0e244c163c0f
 resourcetype: Document
 title: ps4_cs_ps4.pdf
 uid: 198cd365-118b-566c-f425-83b9f140cfbd

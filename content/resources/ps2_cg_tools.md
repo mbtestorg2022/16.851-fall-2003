@@ -6,6 +6,7 @@ description: 'Supporting files courtesy of Seung Chung and Namiko Yamamoto. Used
   compute_high_energy_transfer_test.m, compute_high_energy_transfer.m, and compute_Delta_V_max_test.m.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-851-satellite-engineering-fall-2003/5f40c20e8810099bd576ca03139f7116_ps2_cg_tools.zip
 file_type: application/zip
+parent_uid: 54e4e27d-f3ae-708b-3759-0e244c163c0f
 resourcetype: Other
 title: ps2_cg_tools.zip
 uid: 5f40c20e-8810-099b-d576-ca03139f7116

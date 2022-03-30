@@ -5,6 +5,7 @@ description: 'Problem statement provided by students Christopher Hynes and Steve
   vehicle selection given spacecraft design specifications.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-851-satellite-engineering-fall-2003/63be0302daa2543088e6646166135177_ps1_cs_ps1.pdf
 file_type: application/pdf
+parent_uid: 54e4e27d-f3ae-708b-3759-0e244c163c0f
 resourcetype: Document
 title: ps1_cs_ps1.pdf
 uid: 63be0302-daa2-5430-88e6-646166135177

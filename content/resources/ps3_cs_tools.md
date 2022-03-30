@@ -5,6 +5,7 @@ description: 'Supporting files. The ZIP file contains: thrustersizing.m, t_solar
   obj2actuator.m, momwheelsizing.m, magtorsizing.m, ae2rv.m, and ACSsize.m.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-851-satellite-engineering-fall-2003/ccdc9a510b1ff680b4ad3103d6f49f12_ps3_cs_tools.zip
 file_type: application/zip
+parent_uid: 54e4e27d-f3ae-708b-3759-0e244c163c0f
 resourcetype: Other
 title: ps3_cs_tools.zip
 uid: ccdc9a51-0b1f-f680-b4ad-3103d6f49f12

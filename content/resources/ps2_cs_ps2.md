@@ -6,6 +6,7 @@ description: 'Problem statement courtesy of Christopher Hynes and Kathryn Weiss.
   and type of solar cell.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-851-satellite-engineering-fall-2003/f1ad4bfb90a9d745ac8266e22e710766_ps2_cs_ps2.pdf
 file_type: application/pdf
+parent_uid: 54e4e27d-f3ae-708b-3759-0e244c163c0f
 resourcetype: Document
 title: ps2_cs_ps2.pdf
 uid: f1ad4bfb-90a9-d745-ac82-66e22e710766

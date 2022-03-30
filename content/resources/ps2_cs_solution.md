@@ -6,6 +6,7 @@ description: 'Problem statement and solution courtesy of Christopher Hynes and K
   altitude and inclination and type of solar cell.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-851-satellite-engineering-fall-2003/7555a121bb1544c25136b16869f7448c_ps2_cs_solution.pdf
 file_type: application/pdf
+parent_uid: 54e4e27d-f3ae-708b-3759-0e244c163c0f
 resourcetype: Document
 title: ps2_cs_solution.pdf
 uid: 7555a121-bb15-44c2-5136-b16869f7448c

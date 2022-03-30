@@ -6,6 +6,7 @@ description: 'Problem and solution provided by students Seung Chung, Mark Hilsta
   power-system design tool applicable to a wide range of future design problems.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-851-satellite-engineering-fall-2003/9f5c1b22d5574bd6289ff78a575185e2_ps1_cg_solution.pdf
 file_type: application/pdf
+parent_uid: 54e4e27d-f3ae-708b-3759-0e244c163c0f
 resourcetype: Document
 title: ps1_cg_solution.pdf
 uid: 9f5c1b22-d557-4bd6-289f-f78a575185e2
